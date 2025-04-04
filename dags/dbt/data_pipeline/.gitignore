@@ -1,0 +1,10 @@
+
+target/
+dbt_packages/
+logs/
+airflow.cfg
+dbt/.dbt/
+dbt/profiles.yml
+.env
+secrets.env
+*.json
